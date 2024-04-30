@@ -8,4 +8,4 @@
 
 - [USACO Gold Competitor](http://usaco.org)
 - [Director of Tech at the Spring Institute](https://thespringgroup.org)
-- [Junior at TJHSST](https://www.linkedin.com/in/sonny-chen-243666269)
+- [Senior at TJHSST](https://www.linkedin.com/in/sonny-chen-243666269)
